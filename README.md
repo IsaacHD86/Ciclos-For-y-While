@@ -21,7 +21,7 @@ Ambos programas hacen uso de ciclos `while` y `for`, así como de validaciones d
    
    **Ejemplos**:                                                                                                                                                                    
 Ingrese un número: 8 Puede ser expresado como 2^3 = 8                                                                                                                                   
-Ingrese un número: 32 Puede ser expresado como 2^5 = 32
+Ingrese un número: 32 Puede ser expresado como 2^5 = 32                                                                                                                                 
 Ingrese un número: 40 No puede ser expresado como 2^K                                                                                                                               
 
 
@@ -34,7 +34,7 @@ Ingrese un número: 40 No puede ser expresado como 2^K
 3. **Salida**:
 - Muestra el factorial del número o un mensaje de error si el valor ingresado es inválido.
 
-**Ejemplos**:
+**Ejemplos**:                                                                                                                                                                     
 Ingrese un número para calcular su factorial: 5 El factorial de 5 es 120                                                                                                            
 EIngrese un número entero: 7.5                                                                                                                                                   
 Error: Por favor, ingrese un número entero positivo.                                                                                                                                
