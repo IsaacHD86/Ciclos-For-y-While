@@ -19,10 +19,10 @@ Ambos programas hacen uso de ciclos `while` y `for`, así como de validaciones d
 3. **Salida**:
    - Muestra un mensaje indicando si el número puede o no ser expresado como \(2^K\).
    
-   **Ejemplos**:
-Ingrese un número: 8 Puede ser expresado como 2^3 = 8
+   **Ejemplos**:                                                                                                                                                                    
+Ingrese un número: 8 Puede ser expresado como 2^3 = 8                                                                                                                                   
 Ingrese un número: 32 Puede ser expresado como 2^5 = 32
-Ingrese un número: 40 No puede ser expresado como 2^K
+Ingrese un número: 40 No puede ser expresado como 2^K                                                                                                                               
 
 
 ### Parte 2: Cálculo de Factoriales
@@ -35,9 +35,9 @@ Ingrese un número: 40 No puede ser expresado como 2^K
 - Muestra el factorial del número o un mensaje de error si el valor ingresado es inválido.
 
 **Ejemplos**:
-Ingrese un número para calcular su factorial: 5 El factorial de 5 es 120
-EIngrese un número entero: 7.5
-Error: Por favor, ingrese un número entero positivo.
+Ingrese un número para calcular su factorial: 5 El factorial de 5 es 120                                                                                                            
+EIngrese un número entero: 7.5                                                                                                                                                   
+Error: Por favor, ingrese un número entero positivo.                                                                                                                                
 
 ## Autor
 Isaac Heredia Diaz
